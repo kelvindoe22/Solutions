@@ -1,7 +1,7 @@
 # Programming challenge 3
 
 ## Solving a programming challenge
-The question
+The question  
 ![Question](https://github.com/kelvindoe22/Solutions/blob/main/bridges/q.jpg?raw=true)
 
 
